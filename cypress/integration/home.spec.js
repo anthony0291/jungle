@@ -1,6 +1,6 @@
 
 
-describe('jungle-app', () => {
+describe('home-spec', () => {
   it('Should visit the home page', () => {
     cy.visit('http://localhost:3000')
   });
