@@ -1,6 +1,17 @@
 # Jungle
 
 A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
+<br>
+<br>
+<img src="./public/images/Jungle_1.png"/>
+<br>
+<br>
+<img src="./public/images/Jungle_2.png"/>
+<br>
+<br>
+<img src="./public/images/Jungle_3.png"/>
+<br>
+<br>
 
 ## Setup
 
